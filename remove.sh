@@ -15,4 +15,4 @@ apt-get autoremove --purge -y lib32ncurses5 lib32gomp1 lib32z1-dev lib32bz2-dev
 
 gedit ~/.profile
 
-gedit ~/.bashrc
+gedit ~/.bashrc 
